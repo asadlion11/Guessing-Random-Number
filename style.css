@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+    color: #000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    background-color:bisque;
+    padding: 20px;
+    text-align: center;
+}
+.header h1{
+    margin: 10px;
+}
+.header p{
+    opacity: 80%;
+}
+.header span{
+    background-color: burlywood;
+    font-size: 18px;
+    opacity: 100%;
+}
